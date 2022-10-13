@@ -1,0 +1,14 @@
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/CMakeFiles/shared_preferences_flutter.dir
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/CMakeFiles/install.dir
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/CMakeFiles/install/local.dir
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/flutter/CMakeFiles/install.dir

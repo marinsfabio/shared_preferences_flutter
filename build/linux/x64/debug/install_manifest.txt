@@ -1,0 +1,11 @@
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/bundle/shared_preferences_flutter
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/bundle/data/icudtl.dat
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/build/linux/x64/debug/bundle/data/flutter_assets/version.json

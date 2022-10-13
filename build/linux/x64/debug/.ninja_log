@@ -1,0 +1,54 @@
+# ninja log v5
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/libflutter_linux_gtk.so	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_engine.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_value.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_view.h	6b82c435f81783ee
+4	42560	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	6b82c435f81783ee
+4	42560	0	flutter/_phony_	6b82c435f81783ee
+42570	43869	1665431811	CMakeFiles/shared_preferences_flutter.dir/my_application.cc.o	454498d3b418677e
+42569	43948	1665431811	CMakeFiles/shared_preferences_flutter.dir/main.cc.o	99eeab20f89f1473
+42570	44004	1665431811	CMakeFiles/shared_preferences_flutter.dir/flutter/generated_plugin_registrant.cc.o	be307e939449e744
+44005	44522	1665431812	intermediates_do_not_run/shared_preferences_flutter	eabdee4454895b8e
+44522	46646	0	CMakeFiles/install.util	1239067e0a849c0d
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/libflutter_linux_gtk.so	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_engine.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_value.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/fl_view.h	6b82c435f81783ee
+22	16837	0	/media/fabio-marins/Novo volume/FLUTTER/Deivyd/shared_preferences_flutter/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	6b82c435f81783ee
+22	16837	0	flutter/_phony_	6b82c435f81783ee
+16849	17966	1665437414	CMakeFiles/shared_preferences_flutter.dir/flutter/generated_plugin_registrant.cc.o	be307e939449e744
+16848	18096	1665437415	CMakeFiles/shared_preferences_flutter.dir/my_application.cc.o	454498d3b418677e
+18097	18408	1665437415	intermediates_do_not_run/shared_preferences_flutter	586c92297f299106
+18408	19852	0	CMakeFiles/install.util	1239067e0a849c0d
